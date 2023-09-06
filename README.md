@@ -1,2 +1,2 @@
-# webpack-starter
-Boilerplate for creating apps with Webpack
+# Tracalorie with Webpack
+Refactoring Tracalorie app using Webpack
